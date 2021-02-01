@@ -1,0 +1,6 @@
+C:\Users\ACER\Desktop\engin demiroğ\oyun sistemi\oyun sistemi\bin\Debug\oyun sistemi.exe.config
+C:\Users\ACER\Desktop\engin demiroğ\oyun sistemi\oyun sistemi\bin\Debug\oyun sistemi.exe
+C:\Users\ACER\Desktop\engin demiroğ\oyun sistemi\oyun sistemi\bin\Debug\oyun sistemi.pdb
+C:\Users\ACER\Desktop\engin demiroğ\oyun sistemi\oyun sistemi\obj\Debug\oyun sistemi.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\engin demiroğ\oyun sistemi\oyun sistemi\obj\Debug\oyun sistemi.exe
+C:\Users\ACER\Desktop\engin demiroğ\oyun sistemi\oyun sistemi\obj\Debug\oyun sistemi.pdb
